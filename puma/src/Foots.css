@@ -1,0 +1,40 @@
+.foot-container{
+    background-color: black;
+   
+    position:absolute;
+    bottom:0;
+    width:100%;
+    padding:25px;
+    position:relative;
+    
+    
+}
+.row{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width:60%;
+    margin:10px;
+   
+    
+}
+ .foot-set h4 {
+    color:white;
+    font-size: 18px;
+    font-weight: 400;
+    font-style: verdana;
+   
+    
+}
+.foot-set .ul1 li{
+    color:white;
+    font-size: 18px;
+    list-style: none;
+    padding:4px;
+    
+}
+.icons{
+    display:flex;
+    flex-direction: column;
+    width:30%;
+}
